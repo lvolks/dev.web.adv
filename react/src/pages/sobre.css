@@ -1,0 +1,32 @@
+.container1{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.inf-empresa{
+    height: 500px;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+
+.logo-empresa{
+    height: 500px;
+    width: 50%;
+
+}
+
+.inf{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    padding-top: 140px;
+    padding-left: 20px;
+}
+
+.foto{
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+}
